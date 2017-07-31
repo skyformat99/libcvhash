@@ -1,7 +1,7 @@
 /*
  *   oryx_cvhash.h
  *   Created by TSIHANG <qh_soledadboy@sina.com>>
- *   1 June, 2015
+ *   1 July, 2017
  *   Personal.Q
  */
 
